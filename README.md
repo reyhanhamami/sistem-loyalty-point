@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Loyalty Point
 
 Loyalty Point
