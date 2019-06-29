@@ -1,4 +1,4 @@
-# loyalty-point
+# Loyalty Point
 Simple Loyalty Point System With ERPNext
 
 # Sync Point App to Your Project
