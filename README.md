@@ -1,8 +1,4 @@
 
-## Loyalty Point
-
-Loyalty Point
-=======
 # Loyalty Point
 Simple Loyalty Point System With ERPNext
 
