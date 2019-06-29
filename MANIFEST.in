@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include loyalty_point *.css
+recursive-include loyalty_point *.csv
+recursive-include loyalty_point *.html
+recursive-include loyalty_point *.ico
+recursive-include loyalty_point *.js
+recursive-include loyalty_point *.json
+recursive-include loyalty_point *.md
+recursive-include loyalty_point *.png
+recursive-include loyalty_point *.py
+recursive-include loyalty_point *.svg
+recursive-include loyalty_point *.txt
+recursive-exclude loyalty_point *.pyc
