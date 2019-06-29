@@ -28,4 +28,4 @@ Simple Loyalty Point System With ERPNext
     * Open new terminal on project path
     * Migrate app: `bench migrate`
 
->>>>>>> a16a5e25fed97aabb89f656a8975d19350888d14
+
