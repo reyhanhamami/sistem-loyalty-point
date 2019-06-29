@@ -2,10 +2,6 @@
 ## Loyalty Point
 
 Loyalty Point
-
-#### License
-
-MIT
 =======
 # Loyalty Point
 Simple Loyalty Point System With ERPNext
@@ -23,9 +19,12 @@ Simple Loyalty Point System With ERPNext
 2. Existing Project
     * Open your existing project 
     * Get **loyalty-point app**: `bench get-app [appname] https://github.com/BayuP/loyalty-point`
-    * Install point app: `bench install-app [appname] 
+    * Install point app: `bench install-app [appname]`
     * Run server: `bench start`
     * Open new terminal on project path
     * Migrate app: `bench migrate`
+=======
+#### License
 
+MIT
 
