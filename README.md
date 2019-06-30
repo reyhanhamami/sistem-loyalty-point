@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-## Loyalty Point
 
-Loyalty Point
-
-#### License
-
-MIT
-=======
 # Loyalty Point
 Simple Loyalty Point System With ERPNext
 
@@ -22,10 +14,13 @@ Simple Loyalty Point System With ERPNext
     * Active developer mode on path **/sites/sites_config.json**, add: `"developer_mode": 1,` after db_password
 2. Existing Project
     * Open your existing project 
-    * Get **loyalty-point app**: `bench get-app [appname] https://github.com/EGEPEE/mispoint.git`
+    * Get **loyalty-point app**: `bench get-app [appname] https://github.com/BayuP/loyalty-point`
     * Install point app: `bench install-app [appname]`
     * Run server: `bench start`
     * Open new terminal on project path
     * Migrate app: `bench migrate`
 
->>>>>>> a16a5e25fed97aabb89f656a8975d19350888d14
+#### License
+
+MIT
+
