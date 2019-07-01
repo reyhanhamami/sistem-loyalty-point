@@ -22,6 +22,10 @@ def get_data():
 				{
 					"type": "doctype",
 					"name": "Transaksi",
+				},
+				{
+					"type": "doctype",
+					"name": "Top Up Saldo"
 				}
 			]
 		}

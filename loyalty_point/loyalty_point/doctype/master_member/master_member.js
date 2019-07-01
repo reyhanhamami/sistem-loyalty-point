@@ -7,12 +7,12 @@ frappe.ui.form.on('Master Member', {
 	}
 });
 
-frappe.ui.form.on("Top Up Saldo Line", "uang", function(frm, cdt, cdn) {
+frappe.ui.form.on("Top Up Saldo", "saldo_member", function(frm, cdt, cdn) {
 
-	var top_up_saldos = frm.doc.top_up_saldo;
+	var top_up_saldos = frm.doc.saldo_member;
 	var total = 0
 	for(var i in top_up_saldos) {
-	 total = total + top_up_saldos[i].uang
+	 total = total + top_up_saldos[i].saldo_member
 	 }
  
 	 frm.set_value("saldo_member",total)
